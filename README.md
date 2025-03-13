@@ -1,6 +1,6 @@
 # Career-Path-AI-Recommender-System
 
-![banner](https://github.com/Azmary413/Career-Path-AI-Recommender-System/blob/main/Career-Path-AI%20home%20page.jpg)
+![banner](https://github.com/Azmary413/Career-Path-Recommender-System/blob/main/Career-Path-AI%20home%20page.jpg)
 
 🌟 Empowering the Future: The Role of Support in Education 🌟
 
@@ -10,7 +10,7 @@ As educators, parents, and mentors, our role is to be the guiding force behind t
 
 Let's continue to champion education and provide the tools, resources, and encouragement that students need to excel. After all, when we invest in their success, we're not just shaping individuals—we're building a brighter future for us all.
 
-![banner](https://github.com/Azmary413/Career-Path-AI-Recommender-System/blob/main/form.jpg)
+![banner](https://github.com/Azmary413/Career-Path-Recommender-System/blob/main/form.jpg)
 
 In this project, I developed a comprehensive Career Path AI Recommender System designed to guide students toward their ideal careers. I began by gathering and analyzing detailed student data, encompassing academic performance, extracurricular activities, and career aspirations, to tailor the recommendations to each student's unique profile.
 
@@ -21,11 +21,11 @@ To enhance the model's performance, I applied data preprocessing techniques, fea
 After successful implementation, I conducted extensive testing to validate the system's effectiveness in providing reliable career guidance, ultimately helping students align their academic and professional goals with their potential career paths.
 
 <p align="center">
-  <img src="https://github.com/Azmary413/Career-Path-AI-Recommender-System/blob/main/form.jpg" alt="Form Image" width="45%">
-  <img src="https://github.com/Azmary413/Career-Path-AI-Recommender-System/blob/main/form%20fill%20up.jpg" alt="Form Fill Up Image" width="45%">
+  <img src="https://github.com/Azmary413/Career-Path-Recommender-System/blob/main/form.jpg" alt="Form Image" width="45%">
+  <img src="https://github.com/Azmary413/Career-Path-Recommender-System/blob/main/form%20fill%20up.jpg" alt="Form Fill Up Image" width="45%">
 </p>
 
 This dataset contains information about students enrolled in an academy, including their personal details, academic scores, extracurricular activities, and career aspirations.
 
-![banner](https://github.com/Azmary413/Career-Path-AI-Recommender-System/blob/main/recommended%20ans.jpg)
+![banner](https://github.com/Azmary413/Career-Path-Recommender-System/blob/main/recommended%20ans.jpg)
 
